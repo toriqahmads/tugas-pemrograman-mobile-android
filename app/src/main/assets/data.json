@@ -1,0 +1,342 @@
+{
+  "visimisi": {
+      "ti": {
+        "visi": "visi tiblablablablbalab",
+        "misi": "misi ti blabslabldblaskdblkbklbsadlbdjabsdla"
+      },
+      "si": {
+        "visi": "visi si blablablablbalab",
+        "misi": "misi si blabslabldblaskdblkbklbsadlbdjabsdla"
+      },
+      "mi": {
+        "visi": "visi mi blablablablbalab",
+        "misi": "misi mi blabslabldblaskdblkbklbsadlbdjabsdla"
+      }
+  },
+  "kompetensi":
+  {
+      "ti": "ti kompetensi vnalvnlanl",
+      "si": "si kompetensi amsdlmasldkmsa",
+      "mi": "mi kompetensi amlsdnlsakdnlakd"
+  },
+  "dosen": {
+    "ti": [
+      {
+        "id": "a",
+        "nama_lengkap": "Eri Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "eri@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "b",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "c",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "d",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "e",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "f",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "g",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "h",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "i",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "j",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "k",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "l",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "m",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      }
+    ],
+    "si": [
+      {
+        "id": "a",
+        "nama_lengkap": "Eri Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "eri@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "b",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "c",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "d",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "e",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "f",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "g",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "h",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "i",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "j",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "k",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "l",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "m",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      }
+    ],
+    "mi": [
+      {
+        "id": "a",
+        "nama_lengkap": "Eri Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "eri@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "b",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "c",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "d",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "e",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "f",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "g",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "h",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "i",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "j",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "k",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "l",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      },
+      {
+        "id": "m",
+        "nama_lengkap": "Edi Z",
+        "foto": "http://lorempixel.com/120/120/cats/",
+        "minat": "akdmalsmd",
+        "email": "edi@gmail.com",
+        "vitate": "some vitate"
+      }
+    ]
+  }
+}
