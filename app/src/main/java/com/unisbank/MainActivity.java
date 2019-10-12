@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         MainActivity.this.setTitle("Profile FTI");
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayShowHomeEnabled(true);
-        actionBar.setLogo(R.mipmap.ic_unisbank_round);
+        actionBar.setLogo(R.mipmap.ic_unisbank);
         actionBar.setDisplayUseLogoEnabled(true);
 
         Button ti = (Button) findViewById(R.id.ti);

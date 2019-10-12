@@ -17,7 +17,7 @@ public class AuthorActivity extends AppCompatActivity {
         AuthorActivity.this.setTitle("Tentang");
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayShowHomeEnabled(true);
-        actionBar.setLogo(R.mipmap.ic_unisbank_round);
+        actionBar.setLogo(R.mipmap.ic_unisbank);
         actionBar.setDisplayUseLogoEnabled(true);
 
         Button kembali = (Button) findViewById(R.id.kembali);

@@ -18,7 +18,7 @@ public class ProgdiActivity extends AppCompatActivity {
         ProgdiActivity.this.setTitle(getIntent().getStringExtra("progdiPanjang"));
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayShowHomeEnabled(true);
-        actionBar.setLogo(R.mipmap.ic_unisbank_round);
+        actionBar.setLogo(R.mipmap.ic_unisbank);
         actionBar.setDisplayUseLogoEnabled(true);
 
         Button visimisi = (Button) findViewById(R.id.visimisi);
