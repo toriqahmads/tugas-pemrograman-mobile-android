@@ -11,6 +11,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.graphics.drawable.RoundedBitmapDrawable;
+import androidx.core.graphics.drawable.RoundedBitmapDrawableFactory;
 
 import java.io.InputStream;
 
@@ -72,7 +74,10 @@ public class ProfileDosenActivity extends AppCompatActivity {
         }
 
         protected void onPostExecute(Bitmap result){
-            imageView.setImageBitmap(result);
+            RoundedBitmapDrawable circularBitmap = RoundedBitmapDrawableFactory.create(getResources(), result);
+            circularBitmap.setCircular(true);
+
+            imageView.setImageDrawable(circularBitmap);
         }
     }
 }

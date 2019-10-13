@@ -10,11 +10,14 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="10dp"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="@drawable/border_layout"
+        >
 
         <Button
             android:id="@+id/ti"
+            android:textColor="@color/borderLayout"
+            android:background="@drawable/button"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="25dp"
@@ -25,6 +28,8 @@
 
         <Button
             android:id="@+id/si"
+            android:textColor="@color/borderLayout"
+            android:background="@drawable/button"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="10dp"
@@ -35,6 +40,8 @@
 
         <Button
             android:id="@+id/mi"
+            android:textColor="@color/borderLayout"
+            android:background="@drawable/button"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="10dp"
@@ -45,6 +52,8 @@
 
         <Button
             android:id="@+id/author"
+            android:textColor="@color/borderLayout"
+            android:background="@drawable/button"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="10dp"
@@ -55,12 +64,15 @@
 
         <Button
             android:id="@+id/exit"
+            android:textColor="@color/borderLayout"
+            android:background="@drawable/button_back"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="25dp"
-            android:layout_width="match_parent"
+            android:layout_width="80dp"
             android:layout_height="80dp"
+            android:layout_gravity="center"
             android:text="Keluar" />
 
     </LinearLayout>
