@@ -59,6 +59,7 @@
             android:layout_marginTop="25dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="10dp"
+            android:textColor="@color/borderLayout"
             android:text="Kembali" />
     </LinearLayout>
 </RelativeLayout>
