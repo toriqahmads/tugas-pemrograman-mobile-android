@@ -1,8 +1,8 @@
 {
   "visimisi": {
       "ti": {
-        "visi": "visi tiblablablablbalab",
-        "misi": "misi ti blabslabldblaskdblkbklbsadlbdjabsdla"
+        "visi": "PS Teknik Informatika dalam penyelenggaraannya menyatakan diri dalam visinya:\n\n“ Pada tahun 2020 menjadi program studi unggul dan inovatif di bidang teknik informatika, dengan lulusan berjiwa kewirausahaan dan berdaya saing global.”",
+        "misi": "1)      Menyelenggarakan pendidikan dan pengajaran di bidang teknologi informasi dan informatika.\n\n2)      Mengembangkan penelitian di bidang teknologi informasi dan informatika. yang terpadu, produktif dan terukur.\n\n3)      Memberikan layanan dan kemitraaan kepada masyarakat  dalam bentuk pengamalan ilmu pengetahuan, teknologi dan seni (ipteks)."
       },
       "si": {
         "visi": "visi si blablablablbalab",
@@ -23,19 +23,19 @@
     "ti": [
       {
         "id": "a",
-        "nama_lengkap": "Eri Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "eri@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Eri Zuliarso, M.Kom",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/ERI-225x300.jpg",
+        "minat": "Semantic web, web service, data mining, web mining",
+        "email": "eri299@gmail.com",
+        "vitate": "S2 Ilmu Komputer, UI (Universitas Indonesia), sedang studi S3 Ilmu Komputer UGM"
       },
       {
         "id": "b",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Eddy Nuraharjo, ST, M.Cs",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/EDDY-NUR.jpg",
+        "minat": "Pengolahan Citra, Mikrokontroller, Jaringan Komputer, Pemrograman Mobile, Keamanan Jaringan, Robotika, Mechatronics, Computer Vision",
+        "email": "Eddynurraharjo@gmail.com",
+        "vitate": "S2 Ilmu Komputer, UGM"
       },
       {
         "id": "c",
