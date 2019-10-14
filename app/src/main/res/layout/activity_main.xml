@@ -16,7 +16,7 @@
 
         <Button
             android:id="@+id/ti"
-            android:textColor="@color/borderLayout"
+            android:textColor="@drawable/button"
             android:background="@drawable/button"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
@@ -28,7 +28,7 @@
 
         <Button
             android:id="@+id/si"
-            android:textColor="@color/borderLayout"
+            android:textColor="@drawable/button"
             android:background="@drawable/button"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
@@ -40,7 +40,7 @@
 
         <Button
             android:id="@+id/mi"
-            android:textColor="@color/borderLayout"
+            android:textColor="@drawable/button"
             android:background="@drawable/button"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
@@ -52,7 +52,7 @@
 
         <Button
             android:id="@+id/author"
-            android:textColor="@color/borderLayout"
+            android:textColor="@drawable/button"
             android:background="@drawable/button"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
@@ -62,19 +62,24 @@
             android:layout_height="80dp"
             android:text="Tentang" />
 
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|bottom">
+
         <Button
             android:id="@+id/exit"
-            android:textColor="@color/borderLayout"
             android:background="@drawable/button_back"
-            android:layout_marginRight="20dp"
-            android:layout_marginLeft="20dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="25dp"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:layout_gravity="center"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@drawable/button_back"
             android:text="Keluar" />
-
     </LinearLayout>
 
 </RelativeLayout>

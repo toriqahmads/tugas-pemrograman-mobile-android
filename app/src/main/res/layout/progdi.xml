@@ -10,7 +10,7 @@
 
         <Button
             android:id="@+id/visimisi"
-            android:textColor="@color/borderLayout"
+            android:textColor="@drawable/button"
             android:background="@drawable/button"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
@@ -22,7 +22,7 @@
 
         <Button
             android:id="@+id/dosen"
-            android:textColor="@color/borderLayout"
+            android:textColor="@drawable/button"
             android:background="@drawable/button"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
@@ -34,7 +34,7 @@
 
         <Button
             android:id="@+id/kompetensi"
-            android:textColor="@color/borderLayout"
+            android:textColor="@drawable/button"
             android:background="@drawable/button"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
@@ -51,7 +51,7 @@
         android:gravity="center|bottom">
         <Button
             android:id="@+id/kembali"
-            android:textColor="@color/borderLayout"
+            android:textColor="@drawable/button_back"
             android:background="@drawable/button_back"
             android:layout_width="80dp"
             android:layout_height="80dp"

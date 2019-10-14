@@ -24,8 +24,9 @@ public class KompetensiActivity extends AppCompatActivity {
         KompetensiActivity.this.setTitle(title);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayShowHomeEnabled(true);
-        actionBar.setLogo(R.mipmap.ic_unisbank);
+        actionBar.setLogo(R.mipmap.ic_unisbank_foreground);
         actionBar.setDisplayUseLogoEnabled(true);
+        actionBar.setElevation(0);
 
         try{
             JSONObject data = new JSONObject(JsonParser.getJson(getApplicationContext()));
