@@ -35,8 +35,9 @@ public class DosenActivity extends AppCompatActivity {
         DosenActivity.this.setTitle(title);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayShowHomeEnabled(true);
-        actionBar.setLogo(R.mipmap.ic_unisbank);
+        actionBar.setLogo(R.mipmap.ic_unisbank_foreground);
         actionBar.setDisplayUseLogoEnabled(true);
+        actionBar.setElevation(0);
 
         String progdi = getIntent().getStringExtra("progdi");
         try{

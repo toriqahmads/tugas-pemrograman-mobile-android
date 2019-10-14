@@ -26,8 +26,9 @@ public class ProfileDosenActivity extends AppCompatActivity {
         ProfileDosenActivity.this.setTitle("Profil Dosen");
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayShowHomeEnabled(true);
-        actionBar.setLogo(R.mipmap.ic_unisbank);
+        actionBar.setLogo(R.mipmap.ic_unisbank_foreground);
         actionBar.setDisplayUseLogoEnabled(true);
+        actionBar.setElevation(0);
 
         final TextView nama = (TextView) findViewById(R.id.nama);
         final TextView namaval = (TextView) findViewById(R.id.namalengkapval);

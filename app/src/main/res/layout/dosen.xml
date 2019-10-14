@@ -33,7 +33,7 @@
             android:layout_marginRight="20dp"
             android:layout_marginBottom="10dp"
             android:layout_gravity="bottom"
-            android:textColor="@color/borderLayout"
+            android:textColor="@drawable/button_back"
             android:text="Kembali" />
     </LinearLayout>
 </RelativeLayout>
