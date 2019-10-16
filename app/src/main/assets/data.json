@@ -15,7 +15,7 @@
   },
   "kompetensi":
   {
-      "ti": "ti kompetensi vnalvnlanl",
+      "ti": "Pembagian Dosen berdasarkan Peta Kompetensi\n\nNetworking dan Sekuritas Sistem\n\n    Aji Supriyanto, S.T.,M.Kom\n    Heribertus Yulianton, S.Si,M.Kom\n    Mardi Siswo Utomo, M.Cs.\n    Saefurrohman, M.Cs.\n    Felix Andreas, M.Cs\n\nWeb Development & Komputasi Mobile\n\n    Dwi Budi Santosa,S.Kom\n    Fatkhul Amin, S.T., M.Kom.\n    Jeffry A., M.Kom.\n    Ery Zuliarso, M.Kom.\n    Agung Prihandono, S.Kom.\n    Setyawan Wibisono, M.Cs.\n\nKomputasi Sains\n\n    Budi Hartono, M.Kom.\n    Edy Winarno, M.Eng\n    Eddy Nurraharjo,S.T., M.Cs.\n    Siti Munawaroh, M.Cs.\n    Veronica Lusiana,S.T., M.Kom\n    Wiwien H., M.Kom\n    Ir. Zuly Budiarso,M.Cs.\n    Endro P., S.T.\n    Rina Candra N., M.Kom.\n    Imam Husni Al amin, M.Kom.\n    Eka Ardhianto, M.Cs.\n    W.T. Handoko, M.Kom.\n\nSoftware Engineering\n\n    Dewi Handayani, M.Kom.\n    Sri Eniyati, M.Cs.\n    Sariyun Naja Anwar, M.MSi.\n    Th.Dwiati Wismarini, S.Kom.\n    Jati Sasongko W., M.Cs.\n",
       "si": "si kompetensi amsdlmasldkmsa",
       "mi": "mi kompetensi amlsdnlsakdnlakd"
   },
@@ -39,91 +39,91 @@
       },
       {
         "id": "c",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Dewi Handayani, S.Kom., M.Kom.",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/DEWI-225x300.jpg",
+        "minat": "Kecerdasan Buatan",
+        "email": "dewindroider@gmail.com",
+        "vitate": "S2 Universitas Gadjah Mada"
       },
       {
         "id": "d",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Budi Hartono, S.Kom., M.Kom.",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/BUDI-HARTONO-225x300.jpg",
+        "minat": "Kecerdasan Buatan, Otomata, Image Processing",
+        "email": "pakbudi@yahoo.com",
+        "vitate": "S2 Universitas Gadjah Mada, sedang S3 Ilmu Komputer UGM"
       },
       {
         "id": "e",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Edy Winarno, M.Eng.",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/EDYWIN-225x300.jpg",
+        "minat": "Computer Vision, Image Proce",
+        "email": "edywin@unisbank.ac.id/edywinarno3@gmail.com",
+        "vitate": "S2 UGM Yogyakarta, S3 UGM Yogyakarta (dalam masa studi)"
       },
       {
         "id": "f",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Eka Ardhianto, S.Kom., M.Cs",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/EKA-225x300.jpg",
+        "minat": "-",
+        "email": "eka@unisbank.ac.id",
+        "vitate": "S2 Ilmu Komputer, UGM"
       },
       {
         "id": "g",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Dwi Budi Santoso, S.Kom",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/DWI-BUDI-225x300.jpg",
+        "minat": "Optimasi Web, Jaringan Komputer, Information Retrieval",
+        "email": "dwibudi@unisbank.ac.id",
+        "vitate": "S1 Universitas Stikubank Semarang, S2 Universitas Diponegoro(dalam masa studi)"
       },
       {
         "id": "h",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Imam Husni Al Amin, S.T., M.Kom.",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/IMAM-HUSNI-225x300.jpg",
+        "minat": "-",
+        "email": "imam_husni@yahoo.co.id",
+        "vitate": "S2 MSI UNDIP"
       },
       {
         "id": "i",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Rina Candra Noor Santi, S.Pd, M.Kom",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/RINA-CHANDRA-208x300.jpg",
+        "minat": "Komputer Cerdas dan Sistem Pendukung Keputusan",
+        "email": "r_candra_ns@yahoo.com",
+        "vitate": "S2 Ilmu Komputer, UGM"
       },
       {
         "id": "j",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Ir. Zuly Budiarso, M.Cs.",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/ZULY-225x300.jpg",
+        "minat": "Komputer Cerdas",
+        "email": "zbudiarso@gmail.com",
+        "vitate": "S2 Ilmu Komputer, UGM Yogyakarta"
       },
       {
         "id": "k",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Siti Munawaroh, S.Kom., M.Cs.",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/SITI-MUN-225x300.jpg",
+        "minat": "-",
+        "email": "-",
+        "vitate": "S2 Ilmu Komputer, UGM Yogyakarta"
       },
       {
         "id": "l",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Felix Andreas Sutanto, S.Kom., M.Cs.",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/FELIX-225x300.jpg",
+        "minat": "Jaringan Komputer",
+        "email": "felix@unisbank.ac.id",
+        "vitate": "S2 Ilmu Komputer, UGM"
       },
       {
         "id": "m",
-        "nama_lengkap": "Edi Z",
-        "foto": "http://lorempixel.com/120/120/cats/",
-        "minat": "akdmalsmd",
-        "email": "edi@gmail.com",
-        "vitate": "some vitate"
+        "nama_lengkap": "Wiwien Hadikurniawati, S.T., M.Kom.",
+        "foto": "https://ti.unisbank.ac.id/files/2013/06/wwn2.jpg",
+        "minat": "Image Processing dan Sistem Pendukung Keputusan",
+        "email": "hadikurniawati@gmail.com",
+        "vitate": "S2 MSI UNDIP"
       }
     ],
     "si": [
