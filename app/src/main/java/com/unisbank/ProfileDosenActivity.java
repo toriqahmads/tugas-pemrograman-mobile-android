@@ -4,6 +4,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.text.method.ScrollingMovementMethod;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -36,6 +37,8 @@ public class ProfileDosenActivity extends AppCompatActivity {
         final TextView minat = (TextView) findViewById(R.id.minatval);
         final TextView vitate = (TextView) findViewById(R.id.vitate);
         final ImageView foto = (ImageView) findViewById(R.id.foto);
+
+        vitate.setMovementMethod(new ScrollingMovementMethod());
 
         nama.setText(getIntent().getStringExtra("nama"));
         namaval.setText(getIntent().getStringExtra("nama"));

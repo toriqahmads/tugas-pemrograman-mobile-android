@@ -18,24 +18,30 @@
             android:layout_height="wrap_content"
             android:text="Kompetensi :" />
 
-        <com.google.android.material.card.MaterialCardView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginRight="20dp"
-            android:layout_marginLeft="20dp"
-            android:layout_marginTop="1dp"
-            android:layout_marginBottom="10dp">
-
-            <TextView
-                android:id="@+id/kompetensi"
-                android:layout_marginRight="10dp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginTop="1dp"
-                android:layout_marginBottom="10dp"
+            <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Kompetensi" />
-        </com.google.android.material.card.MaterialCardView>
+                android:layout_height="match_parent">
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent"
+                    android:layout_height="350dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="1dp"
+                    android:layout_marginBottom="10dp"
+                    android:elevation="10dp">
+
+                    <TextView
+                        android:id="@+id/kompetensi"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="1dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:scrollbars="vertical"
+                        android:text="Kompetensi" />
+                </com.google.android.material.card.MaterialCardView>
+            </LinearLayout>
     </LinearLayout>
 
     <LinearLayout

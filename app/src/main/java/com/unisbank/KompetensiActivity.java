@@ -1,6 +1,7 @@
 package com.unisbank;
 
 import android.os.Bundle;
+import android.text.method.ScrollingMovementMethod;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -34,6 +35,7 @@ public class KompetensiActivity extends AppCompatActivity {
             String kompetensi = komp.getString(progdi);
 
             final TextView kompetensiView = (TextView) findViewById(R.id.kompetensi);
+            kompetensiView.setMovementMethod(new ScrollingMovementMethod());
 
             kompetensiView.setText(kompetensi);
 

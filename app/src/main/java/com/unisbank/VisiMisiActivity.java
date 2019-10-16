@@ -1,6 +1,7 @@
 package com.unisbank;
 
 import android.os.Bundle;
+import android.text.method.ScrollingMovementMethod;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -43,6 +44,9 @@ public class VisiMisiActivity extends AppCompatActivity {
 
             final TextView visiView = (TextView) findViewById(R.id.visi);
             final TextView misiView = (TextView) findViewById(R.id.misi);
+
+            visiView.setMovementMethod(new ScrollingMovementMethod());
+            misiView.setMovementMethod(new ScrollingMovementMethod());
 
             Button kembali = (Button) findViewById(R.id.kembali);
 
